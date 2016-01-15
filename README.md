@@ -5,10 +5,13 @@ This is a simple project in C++ to generate Unique IDs which is used for the ide
 The code is written in C++ and be executed on any of the C++ Compilers. The code has various functions for different utilities with comments, which would aid in reading and understanding the code well.
 
 There are following files- 
+
 1. UID_Management.cpp
    (The Code file)
+
 2. encrypted.txt
    (file which contains the admin password for getting into the system, the path of the file can be edited in the code)
+
 3. DataSet.txt
    (a file which contains the data of the users, the path of the file can be edited in the code)
 
